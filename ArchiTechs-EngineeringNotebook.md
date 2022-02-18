@@ -91,3 +91,8 @@ public class PrimaryTeleop extends LinearOpMode {
 ```
 Primary Teleop
 ok
+
+![mihai cu o rață in cap](media/mihai_cu_ratzushca_in_cap.jpg)
+![mihai cu o rață in cap](media/mihai_cu_ratzushca_in_cap.jpg)
+![mihai cu o rață in cap](media/mihai_cu_ratzushca_in_cap.jpg)
+![mihai cu o rață in cap](media/mihai_cu_ratzushca_in_cap.jpg)
