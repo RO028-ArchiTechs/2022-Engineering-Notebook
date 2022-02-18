@@ -68,7 +68,7 @@ public class PrimaryTeleop extends LinearOpMode {
             if(gamepad1.x)
             {
                 gripping = 0.75;
-            } 
+            }
             else if (gamepad1.y)
             {
                 gripping = 0.4;    
@@ -90,3 +90,4 @@ public class PrimaryTeleop extends LinearOpMode {
 }
 ```
 Primary Teleop
+ok
